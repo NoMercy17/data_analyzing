@@ -13,6 +13,9 @@ Contains information about book sales, ratings, and publishing data
 
 
 I Used
+
 matplotlib - Data visualization and plotting
+
 pandas - Data manipulation and analysis
+
 seaborn - Statistical data visualization
